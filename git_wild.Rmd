@@ -46,11 +46,16 @@ boogie <- 1+2+3+4+5
 ```
 
 ```{r break-it-2}
+
 #### Breaking STUFFFF 
 x<-1 
 y<-2
 x+y
 
+
+diamonds_are_forever
+
+#How does that look???
 ```
 
 ## END Discussion 3
