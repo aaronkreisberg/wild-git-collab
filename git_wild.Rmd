@@ -46,9 +46,12 @@ boogie <- 1+2+3+4+5
 ```
 
 ```{r break-it-2}
-diamonds_are_forever <- ggplot(data = diamonds, aes(x = cut, y = price)) +
-  geom_point() +
-  theme_bw()
+
+#### Breaking STUFFFF 
+x<-1 
+y<-2
+x+y
+
 
 diamonds_are_forever
 
