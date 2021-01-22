@@ -35,8 +35,14 @@ ggplot(data = diamonds, aes(x = color, y = carat)) +
 ## PART B: Make problems
 
 ```{r break-it-1}
+
+ggplot(data = diamonds, aes(x = cut, y = carat)) +
+  geom_point(aes(colour = price)) +
+  theme_minimal()
+
 # pure brilliance
 boogie <- 1+2+3+4+5
+
 ```
 
 ```{r break-it-2}
